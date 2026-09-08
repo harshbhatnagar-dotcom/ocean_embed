@@ -1,0 +1,31 @@
+[project]
+name = "oceanembed"
+version = "0.1.0"
+description = "OceanEmbed - Satellite Embedding-Based Deep Learning Framework for Reconstruction of Subsurface Ocean Temperature"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+
+dependencies = [
+    "copernicusmarine",
+    "numpy",
+    "pandas",
+    "xarray",
+    "netcdf4",
+    "scipy",
+    "matplotlib",
+    "tensorflow==2.20.0",
+    "streamlit",
+    "plotly",
+    "joblib",
+    "h5netcdf",
+    "python-dotenv>=1.2.3",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel",
+    "jupyterlab"
+]
+
+[tool.uv]
+package = false
