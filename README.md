@@ -393,6 +393,20 @@ complements existing in-situ ocean-observation systems.
 
 ------------------------------------------------------------------------
 
+## Project Notebooks
+
+### Model Training Notebook
+
+[Open Model Training Notebook in Google Colab](https://colab.research.google.com/drive/18fEKDHnxCMtr-KCqLuxzmRdMhfkJU1WE?usp=sharing)
+
+### Preprocessing Notebook
+
+[Open Preprocessing Notebook in Google Colab](https://colab.research.google.com/drive/1plZ-bau3KYmlxA8Cooy25-Fmrwn1JCER?usp=sharing)
+
+### ARGO Validation Notebook
+
+[Open ARGO Validation Notebook in Google Colab](https://colab.research.google.com/drive/1GRM6lx36flhRFHLkPZ5Lx3T5SuiIyZAz?usp=sharing)
+
 **OceanEmbed**\
 *Satellite Embedding-Based Deep Learning Framework for Reconstruction of
 Subsurface Ocean Temperature from Surface Satellite Observations*\
